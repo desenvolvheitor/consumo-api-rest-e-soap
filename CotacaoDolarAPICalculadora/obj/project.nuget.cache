@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ozLUPiDzC3g=",
+  "dgSpecHash": "VIe3/fQ/KqU=",
   "success": true,
   "projectFilePath": "C:\\Users\\75200\\Documents\\C# COMPLETO Programação Orientada a Objetos + Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj",
   "expectedPackageFiles": [
@@ -11,7 +11,6 @@
     "C:\\Users\\75200\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "C:\\Users\\75200\\.nuget\\packages\\microsoft.identitymodel.tokens.saml\\6.8.0\\microsoft.identitymodel.tokens.saml.6.8.0.nupkg.sha512",
     "C:\\Users\\75200\\.nuget\\packages\\microsoft.identitymodel.xml\\6.8.0\\microsoft.identitymodel.xml.6.8.0.nupkg.sha512",
-    "C:\\Users\\75200\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.8\\microsoft.net.illink.tasks.10.0.8.nupkg.sha512",
     "C:\\Users\\75200\\.nuget\\packages\\system.private.servicemodel\\4.10.3\\system.private.servicemodel.4.10.3.nupkg.sha512",
     "C:\\Users\\75200\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.1\\system.security.cryptography.pkcs.6.0.1.nupkg.sha512",
     "C:\\Users\\75200\\.nuget\\packages\\system.security.cryptography.xml\\6.0.1\\system.security.cryptography.xml.6.0.1.nupkg.sha512",
@@ -20,10 +19,7 @@
     "C:\\Users\\75200\\.nuget\\packages\\system.servicemodel.http\\4.10.3\\system.servicemodel.http.4.10.3.nupkg.sha512",
     "C:\\Users\\75200\\.nuget\\packages\\system.servicemodel.nettcp\\4.10.3\\system.servicemodel.nettcp.4.10.3.nupkg.sha512",
     "C:\\Users\\75200\\.nuget\\packages\\system.servicemodel.primitives\\4.10.3\\system.servicemodel.primitives.4.10.3.nupkg.sha512",
-    "C:\\Users\\75200\\.nuget\\packages\\system.servicemodel.security\\4.10.3\\system.servicemodel.security.4.10.3.nupkg.sha512",
-    "C:\\Users\\75200\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.8\\microsoft.netcore.app.runtime.win-x64.10.0.8.nupkg.sha512",
-    "C:\\Users\\75200\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.8.nupkg.sha512",
-    "C:\\Users\\75200\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.8\\microsoft.aspnetcore.app.runtime.win-x64.10.0.8.nupkg.sha512"
+    "C:\\Users\\75200\\.nuget\\packages\\system.servicemodel.security\\4.10.3\\system.servicemodel.security.4.10.3.nupkg.sha512"
   ],
   "logs": [
     {
@@ -35,8 +31,7 @@
       "filePath": "C:\\Users\\75200\\Documents\\C# COMPLETO Programação Orientada a Objetos + Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj",
       "libraryId": "System.Security.Cryptography.Pkcs",
       "targetGraphs": [
-        "net10.0",
-        "net10.0/win-x64"
+        "net10.0"
       ]
     }
   ]

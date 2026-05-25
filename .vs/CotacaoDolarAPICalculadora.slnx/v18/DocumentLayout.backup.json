@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|c:\\users\\75200\\documents\\c# completo programa\u00E7\u00E3o orientada a objetos \u002B projetos\\projetos\\cotacaodolarapicalculadora\\cotacaodolarapicalculadora\\moneysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|solutionrelative:cotacaodolarapicalculadora\\moneysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|c:\\users\\75200\\documents\\c# completo programa\u00E7\u00E3o orientada a objetos \u002B projetos\\projetos\\cotacaodolarapicalculadora\\cotacaodolarapicalculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|solutionrelative:cotacaodolarapicalculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|c:\\users\\75200\\documents\\c# completo programa\u00E7\u00E3o orientada a objetos \u002B projetos\\projetos\\cotacaodolarapicalculadora\\cotacaodolarapicalculadora\\moneysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|solutionrelative:cotacaodolarapicalculadora\\moneysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|c:\\users\\75200\\documents\\c# completo programa\u00E7\u00E3o orientada a objetos \u002B projetos\\projetos\\cotacaodolarapicalculadora\\cotacaodolarapicalculadora\\dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MoneySearch.cs",
               "DocumentMoniker": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\MoneySearch.cs",
               "RelativeDocumentMoniker": "CotacaoDolarAPICalculadora\\MoneySearch.cs",
               "ToolTip": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\MoneySearch.cs",
               "RelativeToolTip": "CotacaoDolarAPICalculadora\\MoneySearch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-22T14:35:25.653Z",
               "EditorCaption": ""
@@ -61,20 +61,20 @@
               "RelativeDocumentMoniker": "CotacaoDolarAPICalculadora\\APISoap.cs",
               "ToolTip": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\APISoap.cs",
               "RelativeToolTip": "CotacaoDolarAPICalculadora\\APISoap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACTAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-22T14:23:24.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\Program.cs",
               "RelativeDocumentMoniker": "CotacaoDolarAPICalculadora\\Program.cs",
-              "ToolTip": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\Program.cs*",
-              "RelativeToolTip": "CotacaoDolarAPICalculadora\\Program.cs*",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAAoAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\Program.cs",
+              "RelativeToolTip": "CotacaoDolarAPICalculadora\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T17:57:18.965Z",
               "EditorCaption": ""
@@ -124,7 +124,7 @@
               "RelativeDocumentMoniker": "CotacaoDolarAPICalculadora\\Dolar.cs",
               "ToolTip": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\Dolar.cs",
               "RelativeToolTip": "CotacaoDolarAPICalculadora\\Dolar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T12:50:03.085Z",
               "EditorCaption": ""

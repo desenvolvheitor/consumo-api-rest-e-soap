@@ -92,7 +92,7 @@ namespace CotacaoDolarAPICalculadora
                                         {
                                             operationSuccess = false;
                                             Console.Clear();
-                                            Console.WriteLine("Erro! Não é posível relizar divisões por 0!");
+                                            Console.WriteLine("Erro! Não é possível realizar divisões por 0!");
                                             returnToMenu();
                                         }
                                         else

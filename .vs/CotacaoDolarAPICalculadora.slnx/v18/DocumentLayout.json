@@ -50,8 +50,7 @@
               "RelativeToolTip": "CotacaoDolarAPICalculadora\\MoneySearch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T14:35:25.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T14:35:25.653Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "CotacaoDolarAPICalculadora\\APISoap.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T14:23:24.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T14:23:24.546Z"
             },
             {
               "$type": "Document",
@@ -74,7 +72,7 @@
               "RelativeDocumentMoniker": "CotacaoDolarAPICalculadora\\Program.cs",
               "ToolTip": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\Program.cs",
               "RelativeToolTip": "CotacaoDolarAPICalculadora\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAABzAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T17:57:18.965Z",
               "EditorCaption": ""
@@ -89,8 +87,7 @@
               "RelativeToolTip": "CotacaoDolarAPICalculadora\\APIRest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T18:08:27.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T18:08:27.985Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "CotacaoDolarAPICalculadora\\Dolar.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T12:50:03.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T12:50:03.085Z"
             }
           ]
         }
