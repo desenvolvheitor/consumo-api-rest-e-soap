@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|c:\\users\\75200\\documents\\c# completo programa\u00E7\u00E3o orientada a objetos \u002B projetos\\projetos\\cotacaodolarapicalculadora\\cotacaodolarapicalculadora\\moneysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|solutionrelative:cotacaodolarapicalculadora\\moneysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|c:\\users\\75200\\documents\\c# completo programa\u00E7\u00E3o orientada a objetos \u002B projetos\\projetos\\cotacaodolarapicalculadora\\cotacaodolarapicalculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|solutionrelative:cotacaodolarapicalculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|c:\\users\\75200\\documents\\c# completo programa\u00E7\u00E3o orientada a objetos \u002B projetos\\projetos\\cotacaodolarapicalculadora\\cotacaodolarapicalculadora\\dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|solutionrelative:cotacaodolarapicalculadora\\dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|c:\\users\\75200\\documents\\c# completo programa\u00E7\u00E3o orientada a objetos \u002B projetos\\projetos\\cotacaodolarapicalculadora\\cotacaodolarapicalculadora\\apisoap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|solutionrelative:cotacaodolarapicalculadora\\apisoap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|c:\\users\\75200\\documents\\c# completo programa\u00E7\u00E3o orientada a objetos \u002B projetos\\projetos\\cotacaodolarapicalculadora\\cotacaodolarapicalculadora\\apirest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|solutionrelative:cotacaodolarapicalculadora\\apirest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|c:\\users\\75200\\documents\\c# completo programa\u00E7\u00E3o orientada a objetos \u002B projetos\\projetos\\cotacaodolarapicalculadora\\cotacaodolarapicalculadora\\connected services\\calculatorsoapservice\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|solutionrelative:cotacaodolarapicalculadora\\connected services\\calculatorsoapservice\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|c:\\users\\75200\\documents\\c# completo programa\u00E7\u00E3o orientada a objetos \u002B projetos\\projetos\\cotacaodolarapicalculadora\\cotacaodolarapicalculadora\\connected services\\calculatorsoapservice\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9718D54-1FFB-27E5-B67D-A0980ADC9FBE}|CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora.csproj|solutionrelative:cotacaodolarapicalculadora\\connected services\\calculatorsoapservice\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoneySearch.cs",
+              "DocumentMoniker": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\MoneySearch.cs",
+              "RelativeDocumentMoniker": "CotacaoDolarAPICalculadora\\MoneySearch.cs",
+              "ToolTip": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\MoneySearch.cs",
+              "RelativeToolTip": "CotacaoDolarAPICalculadora\\MoneySearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T14:35:25.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APISoap.cs",
+              "DocumentMoniker": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\APISoap.cs",
+              "RelativeDocumentMoniker": "CotacaoDolarAPICalculadora\\APISoap.cs",
+              "ToolTip": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\APISoap.cs",
+              "RelativeToolTip": "CotacaoDolarAPICalculadora\\APISoap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T14:23:24.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\Program.cs",
+              "RelativeDocumentMoniker": "CotacaoDolarAPICalculadora\\Program.cs",
+              "ToolTip": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\Program.cs*",
+              "RelativeToolTip": "CotacaoDolarAPICalculadora\\Program.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:57:18.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "APIRest.cs",
+              "DocumentMoniker": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\APIRest.cs",
+              "RelativeDocumentMoniker": "CotacaoDolarAPICalculadora\\APIRest.cs",
+              "ToolTip": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\APIRest.cs",
+              "RelativeToolTip": "CotacaoDolarAPICalculadora\\APIRest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:08:27.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConnectedService.json",
+              "DocumentMoniker": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\Connected Services\\CalculatorSoapService\\ConnectedService.json",
+              "RelativeDocumentMoniker": "CotacaoDolarAPICalculadora\\Connected Services\\CalculatorSoapService\\ConnectedService.json",
+              "ToolTip": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\Connected Services\\CalculatorSoapService\\ConnectedService.json",
+              "RelativeToolTip": "CotacaoDolarAPICalculadora\\Connected Services\\CalculatorSoapService\\ConnectedService.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-22T12:50:31.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\Connected Services\\CalculatorSoapService\\Reference.cs",
+              "RelativeDocumentMoniker": "CotacaoDolarAPICalculadora\\Connected Services\\CalculatorSoapService\\Reference.cs",
+              "ToolTip": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\Connected Services\\CalculatorSoapService\\Reference.cs",
+              "RelativeToolTip": "CotacaoDolarAPICalculadora\\Connected Services\\CalculatorSoapService\\Reference.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAApwJUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T12:50:39.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dolar.cs",
+              "DocumentMoniker": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\Dolar.cs",
+              "RelativeDocumentMoniker": "CotacaoDolarAPICalculadora\\Dolar.cs",
+              "ToolTip": "C:\\Users\\75200\\Documents\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Projetos\\CotacaoDolarAPICalculadora\\CotacaoDolarAPICalculadora\\Dolar.cs",
+              "RelativeToolTip": "CotacaoDolarAPICalculadora\\Dolar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T12:50:03.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+C:\Users\75200\Documents\C# COMPLETO Programação Orientada a Objetos + Projetos\Projetos\CotacaoDolarAPICalculadora\CotacaoDolarAPICalculadora\bin\Release\net10.0\win-x64\publish\CotacaoDolarAPICalculadora.exe
