@@ -1,5 +1,6 @@
 ﻿using CalculatorSoapService;
 using System.Globalization;
+using System.Net;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
@@ -40,13 +41,25 @@ namespace CotacaoDolarAPICalculadora
                         catch (HttpRequestException ex)
                         {
                             Console.Clear();
-                            Console.WriteLine("[ERRO DE CONEXÃO] O servidor de cotações está indisponível no momento. Tente novamente mais tarde.");
+                            if (ex.StatusCode == HttpStatusCode.NotFound)
+                            {
+                                Console.WriteLine("[ERRO] O endpoint de cotações não foi localizado.");
+                            }
+                            else if (ex.StatusCode == HttpStatusCode.InternalServerError)
+                            {
+                                Console.WriteLine("[ERRO] O servidor de cotações está instável");
+                            }
+                            else
+                            {
+                                Console.WriteLine($"[ERRO DE REDE] Falha na comunicação. Status: {ex.StatusCode}");
+                            }
+
                             returnToMenu();
                         }
                         catch (JsonException)
                         {
-                            Console.WriteLine("[ERRO DE SISTEMA] Houve uma falha ao ler os dados da moeda. Tente novamente mais tarde.");
-                            returnToMenu();
+                            Console.Clear();
+                            Console.WriteLine("[ERRO DE SISTEMA] O servidor retornou dados inválidos. Tente novamente mais tarde");
                         }
                         break;
 

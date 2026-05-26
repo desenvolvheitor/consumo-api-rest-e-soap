@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CotacaoDolarAPICalculadora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21b219897414bbcc2560b60acb8bea5ba5d5ab96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d44ebc37cbc0df10fc6a29373002d450d3ccc9e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CotacaoDolarAPICalculadora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CotacaoDolarAPICalculadora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
